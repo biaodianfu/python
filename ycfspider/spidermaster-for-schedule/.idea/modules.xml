@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../baidukey/.idea/baidukey.iml" filepath="$PROJECT_DIR$/../../baidukey/.idea/baidukey.iml" />
+      <module fileurl="file://E:/github_code/scrapy-1.1/.idea/scrapy-1.1.iml" filepath="E:/github_code/scrapy-1.1/.idea/scrapy-1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spidermaster.iml" filepath="$PROJECT_DIR$/.idea/spidermaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ycfspider-for-schedule/.idea/ycfspider.iml" filepath="$PROJECT_DIR$/../ycfspider-for-schedule/.idea/ycfspider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ycfspider-manager/.idea/ycfspider-manager.iml" filepath="$PROJECT_DIR$/../ycfspider-manager/.idea/ycfspider-manager.iml" />
+    </modules>
+  </component>
+</project>

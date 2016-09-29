@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../mongodate/.idea/mongodate.iml" filepath="$PROJECT_DIR$/../../mongodate/.idea/mongodate.iml" />
+      <module fileurl="file://E:/github_code/scrapy-1.1/.idea/scrapy-1.1.iml" filepath="E:/github_code/scrapy-1.1/.idea/scrapy-1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../my-scrpy-redis/scrapy-redis-0.6.0/.idea/scrapy-redis-0.6.0.iml" filepath="$PROJECT_DIR$/../../my-scrpy-redis/scrapy-redis-0.6.0/.idea/scrapy-redis-0.6.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spidermaster/.idea/spidermaster.iml" filepath="$PROJECT_DIR$/../spidermaster/.idea/spidermaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ycfspider.iml" filepath="$PROJECT_DIR$/.idea/ycfspider.iml" />
+    </modules>
+  </component>
+</project>

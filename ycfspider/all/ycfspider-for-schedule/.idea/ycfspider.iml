@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../../spidermaster-for-schedule" />
+    <content url="file://$MODULE_DIR$/../../ycf/ycfspider-for-schedule" />
+    <content url="file://$MODULE_DIR$/../../ycfspider-manager" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spidermaster" />
+    <orderEntry type="module" module-name="scrapy-redis-0.6.0" />
+    <orderEntry type="module" module-name="mongodate" />
+    <orderEntry type="module" module-name="scrapy-1.1" />
+  </component>
+</module>
